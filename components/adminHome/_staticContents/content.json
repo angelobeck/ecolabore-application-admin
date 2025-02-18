@@ -1,0 +1,21 @@
+{
+    "text": {
+        "title": {
+            "pt": {
+                "value": "Administração do Portal Ecolabore"
+            },
+            "en": {
+                "value": "Ecolabore Portal Administration"
+            }
+        }
+    },
+    "childrenNames": [
+        "system",
+        "database",
+        "users",
+        "domains",
+        "components",
+        "services",
+        "tools"
+    ]
+}

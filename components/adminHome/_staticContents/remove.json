@@ -1,0 +1,17 @@
+{
+    "text": {
+        "title": {
+            "pt": {
+                "value": "Remover a página inicial"
+            },
+            "en": {
+                "value": "Remove the home page"
+            }
+        },
+        "description": {
+            "pt": {
+                "value": "Remove a página inicial do site"
+            }
+        }
+    }
+}

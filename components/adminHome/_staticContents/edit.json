@@ -1,0 +1,17 @@
+{
+    "text": {
+        "title": {
+            "pt": {
+                "value": "Editar página inicial"
+            },
+            "en": {
+                "value": "Edit the home page"
+            }
+        },
+        "description": {
+            "pt": {
+                "value": "Edita a página inicial do site"
+            }
+        }
+    }
+}
